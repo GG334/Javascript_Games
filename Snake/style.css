@@ -1,0 +1,27 @@
+.grid{
+    width: 400px;
+    aspect-ratio: 1;
+    border: 1px solid black;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.grid {
+    background-color: black;
+}
+.pixel {
+    width: 20px;
+    height: 20px;
+    background-color: black;
+}
+
+.fruit {
+    background-color: red;
+    border-radius: 50%;
+}
+
+.snake {
+    background-color: greenyellow;
+    border-radius: 0;
+}
+
